@@ -1,0 +1,17 @@
+textarea {
+    resize: none;
+}
+
+.send {
+    font-size: 18px;
+    font-weight: bold;
+    color: cornflowerblue;
+    position: absolute;
+    right: 2rem;
+    bottom: 10px;
+    cursor: pointer;
+}
+
+.send:active {
+    color: red;
+}

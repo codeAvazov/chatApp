@@ -1,0 +1,12 @@
+div {
+    position: relative;
+}
+
+.fa-search {
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-40%);
+    right: 10%;
+    cursor: pointer;
+}
