@@ -13,7 +13,7 @@ export const App = () => {
             </div>
             <div className="col-sm-12 col-lg-9 p-0 bg-white">
               <Chat />
-            </div>
+            </div> 
           </div>
         </div>
       </Context>
